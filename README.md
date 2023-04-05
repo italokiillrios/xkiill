@@ -3,9 +3,9 @@
        I am a software engineer, I started my studies a year ago.
   </p>
 <div align="center">
-  <a href="https://github.com/xkiill">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xkiill&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkiill&layout=compact&langs_count=7&theme=merko"/>
+  <a href="https://github.com/italokiillrios
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=italokiillrios&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italokiillrios&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div class="Icon" ></br>
   </br>
